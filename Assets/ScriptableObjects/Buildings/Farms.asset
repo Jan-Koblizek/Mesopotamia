@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c227f089a35e4e34890769c67316ab20, type: 3}
+  m_Name: Farms
+  m_EditorClassIdentifier: 
+  cost:
+    resources:
+    - resource: {fileID: 11400000, guid: 8e144d2512caaef4f9b3f2ec7b2d6153, type: 2}
+      amount: 10
+      production: 0
+      consumption: 0
+    - resource: {fileID: 11400000, guid: 18294746edf20134384c8ada61dced24, type: 2}
+      amount: 10
+      production: 0
+      consumption: 0
+    - resource: {fileID: 11400000, guid: 570adb784e5bd76479bd17e8fa2e5fe8, type: 2}
+      amount: 5
+      production: 0
+      consumption: 0
+    - resource: {fileID: 11400000, guid: 5a15f7a04226cc342a9bf2ad75943459, type: 2}
+      amount: 1
+      production: 0
+      consumption: 0
+  sprite: {fileID: 21300000, guid: b4a6941f3bd2f3d47b4a2bd1b95f874d, type: 3}
+  buildingName: farms
+  buildingDescription: Farms produce food for your citizens
+  prefab: {fileID: 8862152584179533562, guid: ba8c001d50d483d4bbd8b7b34faad2f4, type: 3}
+  type: 3

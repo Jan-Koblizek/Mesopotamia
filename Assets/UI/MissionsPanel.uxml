@@ -1,0 +1,21 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Styles/Objectives.uss?fileID=7433441132597879392&amp;guid=753b8875aa2f81e438d23337b0a80b58&amp;type=3#Objectives" />
+    <ui:GroupBox style="position: absolute; right: 0; width: 450px; top: 70px; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px; background-color: rgb(51, 51, 51); border-top-left-radius: 0; border-bottom-left-radius: 5px; border-top-right-radius: 0; border-bottom-right-radius: 0; min-height: initial;">
+        <ui:Label text="Victory:" display-tooltip-when-elided="true" style="margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; color: rgb(255, 255, 255); font-size: 32px;" />
+        <ui:GroupBox name="VictoryConditions" style="padding-left: 10px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0;">
+            <ui:GroupBox name="Condition" class="Condition">
+                <ui:VisualElement name="Check" class="ConditionCheck" />
+                <ui:Label text="All Cities Lost: 2 Left" display-tooltip-when-elided="true" name="ConditionText" class="ConditionText" />
+                <ui:VisualElement class="ConditionPlayerIndicator" />
+            </ui:GroupBox>
+        </ui:GroupBox>
+        <ui:Label text="Defeat:" display-tooltip-when-elided="true" style="margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; color: rgb(255, 255, 255); font-size: 32px;" />
+        <ui:GroupBox name="DefeatConditions" style="padding-left: 10px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0;">
+            <ui:GroupBox name="Condition" style="margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 2px; padding-bottom: 2px; flex-direction: row; align-items: center;">
+                <ui:VisualElement name="Check" style="background-image: url(&apos;project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=-6090568113533005507&amp;guid=36fcc0c025c38c8488218f57cf8383b4&amp;type=3#check&apos;); width: 24px; height: 24px;" />
+                <ui:Label text="All Cities Lost: 2 Left" display-tooltip-when-elided="true" name="ConditionText" style="margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 2px; padding-right: 5px; padding-top: 0; padding-bottom: 0; border-left-color: rgb(255, 255, 255); border-right-color: rgb(255, 255, 255); border-top-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255); text-shadow: 0 0 0 rgb(255, 255, 255); color: rgb(255, 255, 255); border-right-width: 0;" />
+                <ui:VisualElement style="width: 18px; height: 18px; background-color: rgb(255, 0, 0); border-top-left-radius: 3px; border-bottom-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-left-width: 2px; border-right-width: 2px; border-top-width: 2px; border-bottom-width: 2px; border-left-color: rgb(255, 255, 255); border-right-color: rgb(255, 255, 255); border-top-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255);" />
+            </ui:GroupBox>
+        </ui:GroupBox>
+    </ui:GroupBox>
+</ui:UXML>

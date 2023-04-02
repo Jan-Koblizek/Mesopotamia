@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Styles/UpperPanel.uss?fileID=7433441132597879392&amp;guid=030a44b6fefd10e43b8da6889dfe2dd7&amp;type=3#UpperPanel" />
+    <ui:GroupBox name="ResourceBox" class="ResourceBox">
+        <ui:Label tabindex="-1" text="100(+266)" display-tooltip-when-elided="true" name="Text" class="ResourceAmount" />
+        <ui:VisualElement class="ResourceIcon" style="height: 50px; width: 60px; max-height: 50px; max-width: 60px;" />
+    </ui:GroupBox>
+</ui:UXML>

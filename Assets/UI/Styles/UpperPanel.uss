@@ -1,0 +1,35 @@
+.ResourceAmount {
+    color: rgb(255, 255, 255);
+    left: 0;
+    right: auto;
+    width: 160px;
+    align-self: flex-start;
+    align-items: auto;
+    -unity-text-align: middle-right;
+    font-size: 30px;
+}
+
+.ResourceIcon {
+    flex-grow: 1;
+    background-color: rgba(0, 0, 0, 0);
+    align-self: flex-start;
+    width: 55px;
+    height: 50px;
+    background-image: none;
+    flex-basis: auto;
+    max-width: 55px;
+    max-height: 50px;
+}
+
+.ResourceBox {
+    align-items: flex-start;
+    flex-direction: row;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}

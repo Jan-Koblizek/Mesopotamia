@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Styles/SidePanel.uss?fileID=7433441132597879392&amp;guid=01c9cf29ecad4a84ea065557141df1ba&amp;type=3#SidePanel" />
+    <ui:GroupBox style="align-self: flex-start; top: 25%; bottom: 25%; height: 50%; justify-content: center; width: 151px;">
+        <ui:Button tabindex="-1" display-tooltip-when-elided="true" name="Build" class="sideMenuButton" style="background-image: url(&apos;project://database/Assets/UI/Sprites/stavet.png?fileID=21300000&amp;guid=1da693bc69dac6f4bbeb25268ef2a95a&amp;type=3#stavet&apos;); transition-duration: 0s; transition-timing-function: ease; transition-delay: 0s;" />
+        <ui:Button tabindex="-1" display-tooltip-when-elided="true" name="Train" class="sideMenuButton" style="background-image: url(&apos;project://database/Assets/Textures/attackIcon.png?fileID=21300000&amp;guid=3e4c297f9a3479c4f8ec7da9eb12b83d&amp;type=3#attackIcon&apos;); transition-duration: 0s; transition-timing-function: ease; transition-delay: 0s;" />
+        <ui:Button tabindex="-1" display-tooltip-when-elided="true" name="Leave" class="sideMenuButton" style="background-image: url(&apos;project://database/Assets/UI/Sprites/cancel.png?fileID=21300000&amp;guid=07c8fa7ad89167944b29a687f3bc83ae&amp;type=3#cancel&apos;); -unity-background-image-tint-color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); transition-duration: 0s;" />
+    </ui:GroupBox>
+</ui:UXML>

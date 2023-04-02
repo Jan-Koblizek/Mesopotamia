@@ -1,0 +1,141 @@
+.CityOverheadBox {
+    opacity: 1;
+    width: auto;
+    height: auto;
+    background-image: none;
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    background-color: rgb(51, 51, 51);
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-color: rgb(0, 0, 0);
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    left: -200px;
+    top: -200px;
+    position: absolute;
+}
+
+.CityHealthBarBackground {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    width: 95px;
+    height: 10px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    background-color: rgb(255, 0, 0);
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    left: 0;
+    top: 0;
+}
+
+.CityHealthBar {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: rgb(0, 168, 0);
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    height: 10px;
+    width: 50%;
+    font-size: 0;
+}
+
+.AttackButton {
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 56px;
+    height: 56px;
+    background-color: rgb(255, 255, 255);
+    background-image: url('project://database/Assets/Textures/attackIcon.png?fileID=2800000&guid=3e4c297f9a3479c4f8ec7da9eb12b83d&type=3#attackIcon');
+    border-top-left-radius: 32px;
+    border-bottom-left-radius: 32px;
+    border-top-right-radius: 32px;
+    border-bottom-right-radius: 32px;
+    border-left-color: rgb(255, 205, 0);
+    border-right-color: rgb(255, 205, 0);
+    border-top-color: rgb(255, 205, 0);
+    border-bottom-color: rgb(255, 205, 0);
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    left: 22px;
+    position: absolute;
+    top: 40px;
+    display: none;
+}
+
+.DamageBox {
+    position: absolute;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    width: 100px;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    top: -25px;
+    background-color: rgba(0, 0, 0, 0);
+    opacity: 0;
+    display: none;
+}
+
+.DamageBoxLabel {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 5;
+    padding-top: 0;
+    padding-bottom: 0;
+    color: rgba(192, 24, 24, 255);
+    font-size: 32px;
+    -unity-font-style: normal;
+}
+
+.DamageBoxIcon {
+    background-image: url('project://database/Assets/Textures/healthIcon.png?fileID=2800000&guid=650fa972d60c4094e807a047bd9bc309&type=3#healthIcon');
+    width: 32px;
+    height: 32px;
+}

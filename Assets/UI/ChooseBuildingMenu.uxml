@@ -1,0 +1,16 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Styles/ChooseBuildingMenu.uss?fileID=7433441132597879392&amp;guid=b7c9727b9d16cbb43aefb08d65727bb2&amp;type=3#ChooseBuildingMenu" />
+    <Style src="project://database/Assets/UI/Styles/UpperPanel.uss?fileID=7433441132597879392&amp;guid=030a44b6fefd10e43b8da6889dfe2dd7&amp;type=3#UpperPanel" />
+    <ui:GroupBox style="justify-content: flex-end; bottom: 0; position: absolute; width: 80%; align-items: center; left: 10%; opacity: 1; visibility: visible;">
+        <ui:GroupBox name="BuildingInfo" style="width: 600px; height: 150px; background-color: rgb(63, 63, 63); margin-left: 4px; margin-right: 4px; margin-top: 4px; margin-bottom: 4px; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; opacity: 1; visibility: visible; display: flex;">
+            <ui:GroupBox style="background-color: rgb(0, 0, 0); margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 10px; padding-right: 10px; padding-top: 5px; padding-bottom: 5px;">
+                <ui:Label text="WoodCutter" display-tooltip-when-elided="true" name="BuildingName" style="color: rgb(255, 255, 255); font-size: 24px; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0;" />
+            </ui:GroupBox>
+            <ui:GroupBox name="Resources" style="background-color: rgb(34, 34, 34); padding-left: 10px; padding-right: 10px; padding-top: 5px; padding-bottom: 5px; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; flex-direction: row; align-items: center; -unity-text-align: middle-right;" />
+            <ui:GroupBox style="padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0;">
+                <ui:Label text="test test test test  test testtest test test test  test testtest test test test  test test&#10;" display-tooltip-when-elided="true" name="Description" style="color: rgb(255, 255, 255); font-size: 20px; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 10px; padding-right: 10px; padding-top: 5px; padding-bottom: 5px; height: 62px; width: 599px; overflow: visible; white-space: normal;" />
+            </ui:GroupBox>
+        </ui:GroupBox>
+        <ui:GroupBox name="Buildings" style="position: relative; bottom: auto; align-self: center; flex-direction: row; justify-content: center; align-items: center; width: auto; margin-left: 2px; margin-right: 2px; margin-top: 2px; margin-bottom: 2px; padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px; background-color: rgba(0, 0, 0, 0); min-height: auto;" />
+    </ui:GroupBox>
+</ui:UXML>

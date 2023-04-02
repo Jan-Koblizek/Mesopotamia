@@ -1,0 +1,239 @@
+.UnitUI {
+    bottom: 0;
+    position: absolute;
+    max-width: none;
+    right: auto;
+    background-color: rgb(51, 51, 51);
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    visibility: visible;
+    width: 780px;
+    height: 180px;
+    min-height: 180px;
+    min-width: auto;
+    max-height: 180px;
+}
+
+.UnitUIHealthBarBackground {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 150px;
+    height: 20px;
+    position: absolute;
+    right: auto;
+    left: 10px;
+    top: 165px;
+    background-image: none;
+    background-color: rgb(255, 0, 0);
+}
+
+.UnitUIHealthBar {
+    background-color: rgb(0, 204, 0);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 20px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.UnitUIUnitIcon {
+    width: 130px;
+    height: 130px;
+    position: absolute;
+    right: auto;
+    left: 10px;
+    top: 10px;
+    background-image: url('project://database/Assets/UI/Sprites/zlataky.png?fileID=2800000&guid=255ded8e8c5aaa2458601d940719a998&type=3#zlataky');
+    background-color: rgb(255, 255, 255);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.UnitUIUnitName {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    max-height: none;
+    height: 46px;
+    -unity-text-align: upper-left;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    width: 250px;
+    position: absolute;
+    left: 200px;
+}
+
+.UnitUIBasicStats {
+    position: absolute;
+    top: 50px;
+    left: 170px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    width: 250px;
+    height: 50px;
+    flex-direction: row;
+}
+
+.UnitUIStat {
+    height: 40px;
+    margin-left: 0;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    flex-direction: row;
+    width: auto;
+}
+
+.UnitUIStatLabel {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    -unity-text-align: middle-left;
+}
+
+.UnitUIStatIcon {
+    width: 40px;
+    height: 40px;
+    background-image: url('project://database/Assets/Textures/swordIcon.png?fileID=2800000&guid=a9a30aa34115924448868d8c0f56b1ec&type=3#swordIcon');
+    -unity-background-scale-mode: stretch-to-fill;
+    margin-left: 5px;
+}
+
+.UnitUIStatsSecondRow {
+    position: absolute;
+    top: 100px;
+    left: 170px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    width: 250px;
+    height: 50px;
+    flex-direction: row;
+}
+
+.InfoPanelContentItem {
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5;
+    margin-bottom: 5;
+    height: 32px;
+    max-height: 32px;
+    min-height: 32px;
+    flex-direction: row;
+    width: 200px;
+}
+
+.InfoPanelContentIcon {
+    width: 32px;
+    height: 32px;
+    background-image: url('project://database/Assets/Textures/swordIcon.png?fileID=2800000&guid=a9a30aa34115924448868d8c0f56b1ec&type=3#swordIcon');
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.InfoPanelContentValue {
+    margin-left: 5px;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: 32px;
+    -unity-text-align: middle-right;
+    width: 90px;
+}
+
+.InfoPanelContentUnitIcon {
+    width: 32px;
+    height: 32px;
+    margin-left: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.InfoPanelHeader {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.UnitAction {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    height: 75px;
+    width: 75px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-left-color: rgba(241, 184, 0, 255);
+    border-right-color: rgba(241, 184, 0, 255);
+    border-top-color: rgba(241, 184, 0, 255);
+    border-bottom-color: rgba(241, 184, 0, 255);
+}

@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52b0eee1b23afdc4ea6d602e6eb04835, type: 3}
+  m_Name: Hammerman
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 67f57196a3efd234cbdeb9455e6e93b2, type: 3}
+  prefab: {fileID: 6033714269564928736, guid: 6251e8aa206cc084ca781c92a9c3fe7c, type: 3}
+  unitName: Hammerman
+  description: Cheap unit useful against heavy units
+  cost:
+    resources:
+    - resource: {fileID: 11400000, guid: 8e144d2512caaef4f9b3f2ec7b2d6153, type: 2}
+      amount: 20
+      production: 0
+      consumption: 0
+    - resource: {fileID: 11400000, guid: 651da685dbe134d4f9e4010c57cd7648, type: 2}
+      amount: 10
+      production: 0
+      consumption: 0
+    - resource: {fileID: 11400000, guid: 5a15f7a04226cc342a9bf2ad75943459, type: 2}
+      amount: 1
+      production: 0
+      consumption: 0
+  unitClass: {fileID: 11400000, guid: 4462c7406867d9d43a84907c4377137f, type: 2}
+  canAttack: 1
+  maxHealth: 30
+  baseAttack: 8
+  baseArmor: 1
+  attackRange: 1
+  unitClassBonusses:
+    bonuses:
+    - bonus: 0
+      unitClass: {fileID: 11400000, guid: 4462c7406867d9d43a84907c4377137f, type: 2}
+    - bonus: -0.2
+      unitClass: {fileID: 11400000, guid: 780249b74fc10ef48b5af2684fbe0727, type: 2}
+    - bonus: 0.8
+      unitClass: {fileID: 11400000, guid: c8378c8bb67afb9429c73ebd0f0f061c, type: 2}
+    - bonus: 0
+      unitClass: {fileID: 11400000, guid: 6222bdd5187889c458a24dfdf63ff6e8, type: 2}
+  terrainBonusses:
+    bonuses:
+    - bonus: 0
+      terrain: {fileID: 11400000, guid: 6b754d3c6de9e784ab59d8fed84989c8, type: 2}
+    - bonus: 0
+      terrain: {fileID: 11400000, guid: d44e8e551f5158c458e621dee58b700b, type: 2}
+    - bonus: 0
+      terrain: {fileID: 11400000, guid: 0ed35118e0a959341b6a9c6ad3a9b25c, type: 2}
+    - bonus: -0.4
+      terrain: {fileID: 11400000, guid: 916a224e33249d14eab549bdc216b966, type: 2}
+    - bonus: 0.3
+      terrain: {fileID: 11400000, guid: 03dd107b7e24c6243928b1013265092d, type: 2}
+    - bonus: 0
+      terrain: {fileID: 11400000, guid: 05d9cf6f775fa2d4fb728f7b62afef76, type: 2}
+  movementPerTurn: 2
+  movementCosts:
+    costs:
+    - movementCost: 1
+      terrain: {fileID: 11400000, guid: 6b754d3c6de9e784ab59d8fed84989c8, type: 2}
+    - movementCost: 1
+      terrain: {fileID: 11400000, guid: 0ed35118e0a959341b6a9c6ad3a9b25c, type: 2}
+    - movementCost: 2
+      terrain: {fileID: 11400000, guid: 916a224e33249d14eab549bdc216b966, type: 2}
+    - movementCost: 1
+      terrain: {fileID: 11400000, guid: 03dd107b7e24c6243928b1013265092d, type: 2}
+  availableActions:
+  - {fileID: 8634361347220611808, guid: ef6275d9b83816e478f45c0d839d6793, type: 3}
+  - {fileID: 5901163371926169225, guid: 8ec320426e2623f4ab14283d5e65ce87, type: 3}
+  - {fileID: -9150509731571071503, guid: cca114b25b1291c4b8c6676e652348de, type: 3}
+  - {fileID: 4600918495049619659, guid: 3f5dc94db654dcb48848d591241e9c50, type: 3}

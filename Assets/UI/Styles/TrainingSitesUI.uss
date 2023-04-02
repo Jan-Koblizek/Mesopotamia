@@ -1,0 +1,74 @@
+.TrainingPlaceBox {
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    right: auto;
+    bottom: auto;
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+    align-self: flex-start;
+    align-items: center;
+}
+
+.TrainingPlaceButton {
+    width: 60px;
+    height: 60px;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-left-color: rgb(229, 199, 44);
+    border-right-color: rgb(229, 199, 44);
+    border-top-color: rgb(229, 199, 44);
+    border-bottom-color: rgb(229, 199, 44);
+    background-image: url('project://database/Assets/UI/Sprites/stavet.png?fileID=21300000&guid=1da693bc69dac6f4bbeb25268ef2a95a&type=3#stavet');
+}
+
+.TrainingPlaceLabelBox {
+    position: relative;
+    width: 90px;
+    height: 30px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: auto;
+}
+
+.TrainingPlaceLabel {
+    color: rgb(255, 255, 255);
+    -unity-text-align: middle-left;
+    font-size: 20px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.TrainingPlaceLabelImage {
+    flex-grow: 1;
+    background-color: rgba(0, 0, 0, 0);
+    max-width: 25px;
+    max-height: 25px;
+    width: 25px;
+    height: 25px;
+    min-width: 25px;
+    min-height: 25px;
+    margin-left: 2px;
+}

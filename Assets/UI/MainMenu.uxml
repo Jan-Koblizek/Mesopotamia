@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Styles/MainMenu.uss?fileID=7433441132597879392&amp;guid=1d864c4c3a57de34ba27b9b7347f6583&amp;type=3#MainMenu" />
+    <ui:GroupBox style="justify-content: flex-start; height: 100%;">
+        <ui:Label text="Mesopotamia" display-tooltip-when-elided="true" style="font-size: 200px; -unity-text-align: upper-center; color: rgb(255, 255, 255); position: relative; left: auto; top: 20px; text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.8);" />
+        <ui:GroupBox name="MenuButtons" style="top: 350px; align-items: flex-start; justify-content: flex-end; left: 100px; right: auto; width: 50%; position: absolute;">
+            <ui:Button text="Play" display-tooltip-when-elided="true" name="Play" class="MainMenuButton" style="color: rgb(255, 255, 255); -unity-text-align: middle-left; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8); background-color: rgba(0, 0, 0, 0); width: 400px;" />
+            <ui:Button text="Exit" display-tooltip-when-elided="true" name="Exit" class="MainMenuButton" style="background-color: rgba(0, 0, 0, 0); -unity-text-align: middle-left;" />
+        </ui:GroupBox>
+    </ui:GroupBox>
+</ui:UXML>

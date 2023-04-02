@@ -1,0 +1,18 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Styles/UnitOverhead.uss?fileID=7433441132597879392&amp;guid=408ef87f341342a468e590940984f9cf&amp;type=3#UnitOverhead" />
+    <ui:GroupBox name="UnitInfo" class="UnitOverheadBox" style="position: absolute; align-items: flex-start;">
+        <ui:VisualElement name="Status" class="UnitStatus" />
+        <ui:Label text="1" display-tooltip-when-elided="true" name="Level" class="UnitLevel" />
+        <ui:GroupBox name="Abilities" class="UnitAbilities">
+            <ui:VisualElement name="Ability" class="UnitAbility" />
+        </ui:GroupBox>
+        <ui:VisualElement name="HealthBarBackground" class="UnitHealthBarBackground" style="min-height: auto;">
+            <ui:VisualElement name="HealthBarFill" class="UnitHealthBar" />
+        </ui:VisualElement>
+        <ui:Button display-tooltip-when-elided="true" name="AttackButton" class="AttackButton" />
+        <ui:GroupBox name="DamageBox" class="DamageBox">
+            <ui:Label text="-10" display-tooltip-when-elided="true" class="DamageBoxLabel" />
+            <ui:VisualElement class="DamageBoxIcon" />
+        </ui:GroupBox>
+    </ui:GroupBox>
+</ui:UXML>

@@ -1,0 +1,14 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Styles/UnitOverhead.uss?fileID=7433441132597879392&amp;guid=408ef87f341342a468e590940984f9cf&amp;type=3#UnitOverhead" />
+    <Style src="project://database/Assets/UI/Styles/CityOverhead.uss?fileID=7433441132597879392&amp;guid=423bd8c3e4228f443909329bf8698ab1&amp;type=3#CityOverhead" />
+    <ui:GroupBox name="CityHealth" class="UnitOverheadBox" style="position: absolute; align-items: flex-start; left: 200px; top: 200px; border-top-left-radius: 3px; border-bottom-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; width: auto; height: auto;">
+        <ui:VisualElement name="HealthBarBackground" class="UnitHealthBarBackground" style="min-height: auto;">
+            <ui:VisualElement name="HealthBarFill" class="UnitHealthBar" />
+        </ui:VisualElement>
+        <ui:Button display-tooltip-when-elided="true" name="AttackButton" class="AttackButton" style="display: none; top: 40px;" />
+        <ui:GroupBox name="DamageBox" class="DamageBox" style="display: none; top: -30px;">
+            <ui:Label text="-10" display-tooltip-when-elided="true" class="DamageBoxLabel" />
+            <ui:VisualElement class="DamageBoxIcon" />
+        </ui:GroupBox>
+    </ui:GroupBox>
+</ui:UXML>

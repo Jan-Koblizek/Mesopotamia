@@ -1,0 +1,25 @@
+.buildingButton {
+    width: 120px;
+    height: 120px;
+    border-top-left-radius: 75px;
+    border-bottom-left-radius: 75px;
+    border-top-right-radius: 75px;
+    border-bottom-right-radius: 75px;
+    background-image: none;
+    border-left-color: rgb(188, 173, 47);
+    border-right-color: rgb(188, 173, 47);
+    border-top-color: rgb(188, 173, 47);
+    border-bottom-color: rgb(188, 173, 47);
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-top-width: 10px;
+    border-bottom-width: 10px;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c227f089a35e4e34890769c67316ab20, type: 3}
+  m_Name: Bridge
+  m_EditorClassIdentifier: 
+  cost:
+    resources:
+    - resource: {fileID: 11400000, guid: 8e144d2512caaef4f9b3f2ec7b2d6153, type: 2}
+      amount: 50
+      production: 0
+      consumption: 0
+    - resource: {fileID: 11400000, guid: 570adb784e5bd76479bd17e8fa2e5fe8, type: 2}
+      amount: 20
+      production: 0
+      consumption: 0
+  sprite: {fileID: 21300000, guid: e63da4f137a89fb4890b3481a61b1a9e, type: 3}
+  buildingName: Bridge
+  buildingDescription: Bridge can help you to extend your city across a river
+  prefab: {fileID: 7894130557154911076, guid: 21bcd34c56d51d04b91f8397e8c9091d, type: 3}
+  type: 1
