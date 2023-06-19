@@ -73,12 +73,17 @@
   
   <h1 id="LAMA_Communicator_ServerCommunicator" data-uid="LAMA.Communicator.ServerCommunicator" class="text-break">Class ServerCommunicator
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>Handles the communication for the server application. It is able to receive messages from the clients and send messages to all of the clients at once or do so individually.</p>
+</div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><span class="xref">System.Object</span></div>
     <div class="level1"><span class="xref">ServerCommunicator</span></div>
+  </div>
+  <div class="implements">
+    <h5>Implements</h5>
+    <div><a class="xref" href="LAMA.Communicator.Communicator.html">Communicator</a></div>
   </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
@@ -108,7 +113,7 @@
   <h6><strong>Assembly</strong>: LAMA.dll</h6>
   <h5 id="LAMA_Communicator_ServerCommunicator_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class ServerCommunicator</code></pre>
+    <pre><code class="lang-csharp hljs">public class ServerCommunicator : Communicator</code></pre>
   </div>
   <h3 id="constructors">Constructors
   </h3>
@@ -117,7 +122,7 @@
     <a href="https://github.com/idefi54/LAMA/new/CleanUp-Koblizek/apiSpec/new?filename=LAMA_Communicator_ServerCommunicator__ctor_System_String_System_String_System_String_System_String_System_String_System_Boolean_.md&amp;value=---%0Auid%3A%20LAMA.Communicator.ServerCommunicator.%23ctor(System.String%2CSystem.String%2CSystem.String%2CSystem.String%2CSystem.String%2CSystem.Boolean)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L494">View Source</a>
+    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L511">View Source</a>
   </span>
   <a id="LAMA_Communicator_ServerCommunicator__ctor_" data-uid="LAMA.Communicator.ServerCommunicator.#ctor*"></a>
   <h4 id="LAMA_Communicator_ServerCommunicator__ctor_System_String_System_String_System_String_System_String_System_String_System_Boolean_" data-uid="LAMA.Communicator.ServerCommunicator.#ctor(System.String,System.String,System.String,System.String,System.String,System.Boolean)">ServerCommunicator(String, String, String, String, String, Boolean)</h4>
@@ -228,11 +233,12 @@
     <a href="https://github.com/idefi54/LAMA/new/CleanUp-Koblizek/apiSpec/new?filename=LAMA_Communicator_ServerCommunicator_CompressionManager.md&amp;value=---%0Auid%3A%20LAMA.Communicator.ServerCommunicator.CompressionManager%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L22">View Source</a>
+    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L28">View Source</a>
   </span>
   <a id="LAMA_Communicator_ServerCommunicator_CompressionManager_" data-uid="LAMA.Communicator.ServerCommunicator.CompressionManager*"></a>
   <h4 id="LAMA_Communicator_ServerCommunicator_CompressionManager" data-uid="LAMA.Communicator.ServerCommunicator.CompressionManager">CompressionManager</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Class managing the Huffman encoding of the messages</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -258,11 +264,12 @@
     <a href="https://github.com/idefi54/LAMA/new/CleanUp-Koblizek/apiSpec/new?filename=LAMA_Communicator_ServerCommunicator_LastUpdate.md&amp;value=---%0Auid%3A%20LAMA.Communicator.ServerCommunicator.LastUpdate%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L24">View Source</a>
+    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L33">View Source</a>
   </span>
   <a id="LAMA_Communicator_ServerCommunicator_LastUpdate_" data-uid="LAMA.Communicator.ServerCommunicator.LastUpdate*"></a>
   <h4 id="LAMA_Communicator_ServerCommunicator_LastUpdate" data-uid="LAMA.Communicator.ServerCommunicator.LastUpdate">LastUpdate</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>the last time we were updated over the network</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -290,11 +297,12 @@
     <a href="https://github.com/idefi54/LAMA/new/CleanUp-Koblizek/apiSpec/new?filename=LAMA_Communicator_ServerCommunicator_EndCommunication.md&amp;value=---%0Auid%3A%20LAMA.Communicator.ServerCommunicator.EndCommunication%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L49">View Source</a>
+    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L61">View Source</a>
   </span>
   <a id="LAMA_Communicator_ServerCommunicator_EndCommunication_" data-uid="LAMA.Communicator.ServerCommunicator.EndCommunication*"></a>
   <h4 id="LAMA_Communicator_ServerCommunicator_EndCommunication" data-uid="LAMA.Communicator.ServerCommunicator.EndCommunication">EndCommunication()</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Stop communication gracefully, stop broadcasting and dispose of all the necessary objects</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -305,7 +313,7 @@
     <a href="https://github.com/idefi54/LAMA/new/CleanUp-Koblizek/apiSpec/new?filename=LAMA_Communicator_ServerCommunicator_initServerCommunicator_System_String_System_String_System_Int32_System_Int32_System_String_System_String_System_String_System_Boolean_.md&amp;value=---%0Auid%3A%20LAMA.Communicator.ServerCommunicator.initServerCommunicator(System.String%2CSystem.String%2CSystem.Int32%2CSystem.Int32%2CSystem.String%2CSystem.String%2CSystem.String%2CSystem.Boolean)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L346">View Source</a>
+    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L363">View Source</a>
   </span>
   <a id="LAMA_Communicator_ServerCommunicator_initServerCommunicator_" data-uid="LAMA.Communicator.ServerCommunicator.initServerCommunicator*"></a>
   <h4 id="LAMA_Communicator_ServerCommunicator_initServerCommunicator_System_String_System_String_System_Int32_System_Int32_System_String_System_String_System_String_System_Boolean_" data-uid="LAMA.Communicator.ServerCommunicator.initServerCommunicator(System.String,System.String,System.Int32,System.Int32,System.String,System.String,System.String,System.Boolean)">initServerCommunicator(String, String, Int32, Int32, String, String, String, Boolean)</h4>
@@ -415,7 +423,7 @@
     <a href="https://github.com/idefi54/LAMA/new/CleanUp-Koblizek/apiSpec/new?filename=LAMA_Communicator_ServerCommunicator_SendCommand_LAMA_Communicator_Command_.md&amp;value=---%0Auid%3A%20LAMA.Communicator.ServerCommunicator.SendCommand(LAMA.Communicator.Command)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L507">View Source</a>
+    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L524">View Source</a>
   </span>
   <a id="LAMA_Communicator_ServerCommunicator_SendCommand_" data-uid="LAMA.Communicator.ServerCommunicator.SendCommand*"></a>
   <h4 id="LAMA_Communicator_ServerCommunicator_SendCommand_LAMA_Communicator_Command_" data-uid="LAMA.Communicator.ServerCommunicator.SendCommand(LAMA.Communicator.Command)">SendCommand(Command)</h4>
@@ -448,11 +456,12 @@
     <a href="https://github.com/idefi54/LAMA/new/CleanUp-Koblizek/apiSpec/new?filename=LAMA_Communicator_ServerCommunicator_SendLocations_System_Threading_CancellationToken_.md&amp;value=---%0Auid%3A%20LAMA.Communicator.ServerCommunicator.SendLocations(System.Threading.CancellationToken)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L102">View Source</a>
+    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L119">View Source</a>
   </span>
   <a id="LAMA_Communicator_ServerCommunicator_SendLocations_" data-uid="LAMA.Communicator.ServerCommunicator.SendLocations*"></a>
   <h4 id="LAMA_Communicator_ServerCommunicator_SendLocations_System_Threading_CancellationToken_" data-uid="LAMA.Communicator.ServerCommunicator.SendLocations(System.Threading.CancellationToken)">SendLocations(CancellationToken)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Send locations to all of the clients</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -495,7 +504,7 @@
     <a href="https://github.com/idefi54/LAMA/new/CleanUp-Koblizek/apiSpec/new?filename=LAMA_Communicator_ServerCommunicator_SendUpdate_System_Net_Sockets_Socket_System_Int32_System_Int64_.md&amp;value=---%0Auid%3A%20LAMA.Communicator.ServerCommunicator.SendUpdate(System.Net.Sockets.Socket%2CSystem.Int32%2CSystem.Int64)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L630">View Source</a>
+    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L647">View Source</a>
   </span>
   <a id="LAMA_Communicator_ServerCommunicator_SendUpdate_" data-uid="LAMA.Communicator.ServerCommunicator.SendUpdate*"></a>
   <h4 id="LAMA_Communicator_ServerCommunicator_SendUpdate_System_Net_Sockets_Socket_System_Int32_System_Int64_" data-uid="LAMA.Communicator.ServerCommunicator.SendUpdate(System.Net.Sockets.Socket,System.Int32,System.Int64)">SendUpdate(Socket, Int32, Int64)</h4>
@@ -535,6 +544,10 @@
       </tr>
     </tbody>
   </table>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <a class="xref" href="LAMA.Communicator.Communicator.html">Communicator</a>
+  </div>
 </article>
           </div>
           
@@ -546,7 +559,7 @@
                     <a href="https://github.com/idefi54/LAMA/new/CleanUp-Koblizek/apiSpec/new?filename=LAMA_Communicator_ServerCommunicator.md&amp;value=---%0Auid%3A%20LAMA.Communicator.ServerCommunicator%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L20" class="contribution-link">View Source</a>
+                    <a href="https://github.com/idefi54/LAMA/blob/CleanUp-Koblizek/XamarinApp/LAMA/LAMA/LAMA/Communicator/ServerCommunicator.cs/#L23" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>

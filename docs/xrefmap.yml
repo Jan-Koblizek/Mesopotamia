@@ -1246,6 +1246,164 @@ references:
   isSpec: "True"
   fullName: LAMA.Communicator.Command.ToString
   nameWithType: Command.ToString
+- uid: LAMA.Communicator.CommandStorage
+  name: CommandStorage
+  href: api/LAMA.Communicator.CommandStorage.html
+  commentId: T:LAMA.Communicator.CommandStorage
+  fullName: LAMA.Communicator.CommandStorage
+  nameWithType: CommandStorage
+- uid: LAMA.Communicator.CommandStorage.command
+  name: command
+  href: api/LAMA.Communicator.CommandStorage.html#LAMA_Communicator_CommandStorage_command
+  commentId: P:LAMA.Communicator.CommandStorage.command
+  fullName: LAMA.Communicator.CommandStorage.command
+  nameWithType: CommandStorage.command
+- uid: LAMA.Communicator.CommandStorage.command*
+  name: command
+  href: api/LAMA.Communicator.CommandStorage.html#LAMA_Communicator_CommandStorage_command_
+  commentId: Overload:LAMA.Communicator.CommandStorage.command
+  isSpec: "True"
+  fullName: LAMA.Communicator.CommandStorage.command
+  nameWithType: CommandStorage.command
+- uid: LAMA.Communicator.CommandStorage.getKey
+  name: getKey()
+  href: api/LAMA.Communicator.CommandStorage.html#LAMA_Communicator_CommandStorage_getKey
+  commentId: M:LAMA.Communicator.CommandStorage.getKey
+  fullName: LAMA.Communicator.CommandStorage.getKey()
+  nameWithType: CommandStorage.getKey()
+- uid: LAMA.Communicator.CommandStorage.getKey*
+  name: getKey
+  href: api/LAMA.Communicator.CommandStorage.html#LAMA_Communicator_CommandStorage_getKey_
+  commentId: Overload:LAMA.Communicator.CommandStorage.getKey
+  isSpec: "True"
+  fullName: LAMA.Communicator.CommandStorage.getKey
+  nameWithType: CommandStorage.getKey
+- uid: LAMA.Communicator.CommandStorage.getStrings
+  name: getStrings()
+  href: api/LAMA.Communicator.CommandStorage.html#LAMA_Communicator_CommandStorage_getStrings
+  commentId: M:LAMA.Communicator.CommandStorage.getStrings
+  fullName: LAMA.Communicator.CommandStorage.getStrings()
+  nameWithType: CommandStorage.getStrings()
+- uid: LAMA.Communicator.CommandStorage.getStrings*
+  name: getStrings
+  href: api/LAMA.Communicator.CommandStorage.html#LAMA_Communicator_CommandStorage_getStrings_
+  commentId: Overload:LAMA.Communicator.CommandStorage.getStrings
+  isSpec: "True"
+  fullName: LAMA.Communicator.CommandStorage.getStrings
+  nameWithType: CommandStorage.getStrings
+- uid: LAMA.Communicator.CommandStorage.key
+  name: key
+  href: api/LAMA.Communicator.CommandStorage.html#LAMA_Communicator_CommandStorage_key
+  commentId: P:LAMA.Communicator.CommandStorage.key
+  fullName: LAMA.Communicator.CommandStorage.key
+  nameWithType: CommandStorage.key
+- uid: LAMA.Communicator.CommandStorage.key*
+  name: key
+  href: api/LAMA.Communicator.CommandStorage.html#LAMA_Communicator_CommandStorage_key_
+  commentId: Overload:LAMA.Communicator.CommandStorage.key
+  isSpec: "True"
+  fullName: LAMA.Communicator.CommandStorage.key
+  nameWithType: CommandStorage.key
+- uid: LAMA.Communicator.CommandStorage.makeFromStrings(System.String[])
+  name: makeFromStrings(String[])
+  href: api/LAMA.Communicator.CommandStorage.html#LAMA_Communicator_CommandStorage_makeFromStrings_System_String___
+  commentId: M:LAMA.Communicator.CommandStorage.makeFromStrings(System.String[])
+  name.vb: makeFromStrings(String())
+  fullName: LAMA.Communicator.CommandStorage.makeFromStrings(System.String[])
+  fullName.vb: LAMA.Communicator.CommandStorage.makeFromStrings(System.String())
+  nameWithType: CommandStorage.makeFromStrings(String[])
+  nameWithType.vb: CommandStorage.makeFromStrings(String())
+- uid: LAMA.Communicator.CommandStorage.makeFromStrings*
+  name: makeFromStrings
+  href: api/LAMA.Communicator.CommandStorage.html#LAMA_Communicator_CommandStorage_makeFromStrings_
+  commentId: Overload:LAMA.Communicator.CommandStorage.makeFromStrings
+  isSpec: "True"
+  fullName: LAMA.Communicator.CommandStorage.makeFromStrings
+  nameWithType: CommandStorage.makeFromStrings
+- uid: LAMA.Communicator.CommandStorage.receiverID
+  name: receiverID
+  href: api/LAMA.Communicator.CommandStorage.html#LAMA_Communicator_CommandStorage_receiverID
+  commentId: P:LAMA.Communicator.CommandStorage.receiverID
+  fullName: LAMA.Communicator.CommandStorage.receiverID
+  nameWithType: CommandStorage.receiverID
+- uid: LAMA.Communicator.CommandStorage.receiverID*
+  name: receiverID
+  href: api/LAMA.Communicator.CommandStorage.html#LAMA_Communicator_CommandStorage_receiverID_
+  commentId: Overload:LAMA.Communicator.CommandStorage.receiverID
+  isSpec: "True"
+  fullName: LAMA.Communicator.CommandStorage.receiverID
+  nameWithType: CommandStorage.receiverID
+- uid: LAMA.Communicator.CommandStorage.time
+  name: time
+  href: api/LAMA.Communicator.CommandStorage.html#LAMA_Communicator_CommandStorage_time
+  commentId: P:LAMA.Communicator.CommandStorage.time
+  fullName: LAMA.Communicator.CommandStorage.time
+  nameWithType: CommandStorage.time
+- uid: LAMA.Communicator.CommandStorage.time*
+  name: time
+  href: api/LAMA.Communicator.CommandStorage.html#LAMA_Communicator_CommandStorage_time_
+  commentId: Overload:LAMA.Communicator.CommandStorage.time
+  isSpec: "True"
+  fullName: LAMA.Communicator.CommandStorage.time
+  nameWithType: CommandStorage.time
+- uid: LAMA.Communicator.Communicator
+  name: Communicator
+  href: api/LAMA.Communicator.Communicator.html
+  commentId: T:LAMA.Communicator.Communicator
+  fullName: LAMA.Communicator.Communicator
+  nameWithType: Communicator
+- uid: LAMA.Communicator.Communicator.CompressionManager
+  name: CompressionManager
+  href: api/LAMA.Communicator.Communicator.html#LAMA_Communicator_Communicator_CompressionManager
+  commentId: P:LAMA.Communicator.Communicator.CompressionManager
+  fullName: LAMA.Communicator.Communicator.CompressionManager
+  nameWithType: Communicator.CompressionManager
+- uid: LAMA.Communicator.Communicator.CompressionManager*
+  name: CompressionManager
+  href: api/LAMA.Communicator.Communicator.html#LAMA_Communicator_Communicator_CompressionManager_
+  commentId: Overload:LAMA.Communicator.Communicator.CompressionManager
+  isSpec: "True"
+  fullName: LAMA.Communicator.Communicator.CompressionManager
+  nameWithType: Communicator.CompressionManager
+- uid: LAMA.Communicator.Communicator.EndCommunication
+  name: EndCommunication()
+  href: api/LAMA.Communicator.Communicator.html#LAMA_Communicator_Communicator_EndCommunication
+  commentId: M:LAMA.Communicator.Communicator.EndCommunication
+  fullName: LAMA.Communicator.Communicator.EndCommunication()
+  nameWithType: Communicator.EndCommunication()
+- uid: LAMA.Communicator.Communicator.EndCommunication*
+  name: EndCommunication
+  href: api/LAMA.Communicator.Communicator.html#LAMA_Communicator_Communicator_EndCommunication_
+  commentId: Overload:LAMA.Communicator.Communicator.EndCommunication
+  isSpec: "True"
+  fullName: LAMA.Communicator.Communicator.EndCommunication
+  nameWithType: Communicator.EndCommunication
+- uid: LAMA.Communicator.Communicator.LastUpdate
+  name: LastUpdate
+  href: api/LAMA.Communicator.Communicator.html#LAMA_Communicator_Communicator_LastUpdate
+  commentId: P:LAMA.Communicator.Communicator.LastUpdate
+  fullName: LAMA.Communicator.Communicator.LastUpdate
+  nameWithType: Communicator.LastUpdate
+- uid: LAMA.Communicator.Communicator.LastUpdate*
+  name: LastUpdate
+  href: api/LAMA.Communicator.Communicator.html#LAMA_Communicator_Communicator_LastUpdate_
+  commentId: Overload:LAMA.Communicator.Communicator.LastUpdate
+  isSpec: "True"
+  fullName: LAMA.Communicator.Communicator.LastUpdate
+  nameWithType: Communicator.LastUpdate
+- uid: LAMA.Communicator.Communicator.SendCommand(LAMA.Communicator.Command)
+  name: SendCommand(Command)
+  href: api/LAMA.Communicator.Communicator.html#LAMA_Communicator_Communicator_SendCommand_LAMA_Communicator_Command_
+  commentId: M:LAMA.Communicator.Communicator.SendCommand(LAMA.Communicator.Command)
+  fullName: LAMA.Communicator.Communicator.SendCommand(LAMA.Communicator.Command)
+  nameWithType: Communicator.SendCommand(Command)
+- uid: LAMA.Communicator.Communicator.SendCommand*
+  name: SendCommand
+  href: api/LAMA.Communicator.Communicator.html#LAMA_Communicator_Communicator_SendCommand_
+  commentId: Overload:LAMA.Communicator.Communicator.SendCommand
+  isSpec: "True"
+  fullName: LAMA.Communicator.Communicator.SendCommand
+  nameWithType: Communicator.SendCommand
 - uid: LAMA.Communicator.Compression
   name: Compression
   href: api/LAMA.Communicator.Compression.html
@@ -1392,6 +1550,352 @@ references:
   commentId: F:LAMA.Communicator.EntryTooLongException.length
   fullName: LAMA.Communicator.EntryTooLongException.length
   nameWithType: EntryTooLongException.length
+- uid: LAMA.Communicator.HuffmanNode
+  name: HuffmanNode
+  href: api/LAMA.Communicator.HuffmanNode.html
+  commentId: T:LAMA.Communicator.HuffmanNode
+  fullName: LAMA.Communicator.HuffmanNode
+  nameWithType: HuffmanNode
+- uid: LAMA.Communicator.HuffmanNode.Frequency
+  name: Frequency
+  href: api/LAMA.Communicator.HuffmanNode.html#LAMA_Communicator_HuffmanNode_Frequency
+  commentId: P:LAMA.Communicator.HuffmanNode.Frequency
+  fullName: LAMA.Communicator.HuffmanNode.Frequency
+  nameWithType: HuffmanNode.Frequency
+- uid: LAMA.Communicator.HuffmanNode.Frequency*
+  name: Frequency
+  href: api/LAMA.Communicator.HuffmanNode.html#LAMA_Communicator_HuffmanNode_Frequency_
+  commentId: Overload:LAMA.Communicator.HuffmanNode.Frequency
+  isSpec: "True"
+  fullName: LAMA.Communicator.HuffmanNode.Frequency
+  nameWithType: HuffmanNode.Frequency
+- uid: LAMA.Communicator.HuffmanNode.Left
+  name: Left
+  href: api/LAMA.Communicator.HuffmanNode.html#LAMA_Communicator_HuffmanNode_Left
+  commentId: P:LAMA.Communicator.HuffmanNode.Left
+  fullName: LAMA.Communicator.HuffmanNode.Left
+  nameWithType: HuffmanNode.Left
+- uid: LAMA.Communicator.HuffmanNode.Left*
+  name: Left
+  href: api/LAMA.Communicator.HuffmanNode.html#LAMA_Communicator_HuffmanNode_Left_
+  commentId: Overload:LAMA.Communicator.HuffmanNode.Left
+  isSpec: "True"
+  fullName: LAMA.Communicator.HuffmanNode.Left
+  nameWithType: HuffmanNode.Left
+- uid: LAMA.Communicator.HuffmanNode.Right
+  name: Right
+  href: api/LAMA.Communicator.HuffmanNode.html#LAMA_Communicator_HuffmanNode_Right
+  commentId: P:LAMA.Communicator.HuffmanNode.Right
+  fullName: LAMA.Communicator.HuffmanNode.Right
+  nameWithType: HuffmanNode.Right
+- uid: LAMA.Communicator.HuffmanNode.Right*
+  name: Right
+  href: api/LAMA.Communicator.HuffmanNode.html#LAMA_Communicator_HuffmanNode_Right_
+  commentId: Overload:LAMA.Communicator.HuffmanNode.Right
+  isSpec: "True"
+  fullName: LAMA.Communicator.HuffmanNode.Right
+  nameWithType: HuffmanNode.Right
+- uid: LAMA.Communicator.HuffmanNode.Symbol
+  name: Symbol
+  href: api/LAMA.Communicator.HuffmanNode.html#LAMA_Communicator_HuffmanNode_Symbol
+  commentId: P:LAMA.Communicator.HuffmanNode.Symbol
+  fullName: LAMA.Communicator.HuffmanNode.Symbol
+  nameWithType: HuffmanNode.Symbol
+- uid: LAMA.Communicator.HuffmanNode.Symbol*
+  name: Symbol
+  href: api/LAMA.Communicator.HuffmanNode.html#LAMA_Communicator_HuffmanNode_Symbol_
+  commentId: Overload:LAMA.Communicator.HuffmanNode.Symbol
+  isSpec: "True"
+  fullName: LAMA.Communicator.HuffmanNode.Symbol
+  nameWithType: HuffmanNode.Symbol
+- uid: LAMA.Communicator.HuffmanNode.Traverse(System.Char,System.Collections.Generic.List{System.Boolean})
+  name: Traverse(Char, List<Boolean>)
+  href: api/LAMA.Communicator.HuffmanNode.html#LAMA_Communicator_HuffmanNode_Traverse_System_Char_System_Collections_Generic_List_System_Boolean__
+  commentId: M:LAMA.Communicator.HuffmanNode.Traverse(System.Char,System.Collections.Generic.List{System.Boolean})
+  name.vb: Traverse(Char, List(Of Boolean))
+  fullName: LAMA.Communicator.HuffmanNode.Traverse(System.Char, System.Collections.Generic.List<System.Boolean>)
+  fullName.vb: LAMA.Communicator.HuffmanNode.Traverse(System.Char, System.Collections.Generic.List(Of System.Boolean))
+  nameWithType: HuffmanNode.Traverse(Char, List<Boolean>)
+  nameWithType.vb: HuffmanNode.Traverse(Char, List(Of Boolean))
+- uid: LAMA.Communicator.HuffmanNode.Traverse*
+  name: Traverse
+  href: api/LAMA.Communicator.HuffmanNode.html#LAMA_Communicator_HuffmanNode_Traverse_
+  commentId: Overload:LAMA.Communicator.HuffmanNode.Traverse
+  isSpec: "True"
+  fullName: LAMA.Communicator.HuffmanNode.Traverse
+  nameWithType: HuffmanNode.Traverse
+- uid: LAMA.Communicator.ModelChangesManager
+  name: ModelChangesManager
+  href: api/LAMA.Communicator.ModelChangesManager.html
+  commentId: T:LAMA.Communicator.ModelChangesManager
+  fullName: LAMA.Communicator.ModelChangesManager
+  nameWithType: ModelChangesManager
+- uid: LAMA.Communicator.ModelChangesManager.#ctor(LAMA.Communicator.Communicator,LAMA.RememberedStringDictionary{LAMA.Communicator.Command,LAMA.Communicator.CommandStorage},LAMA.RememberedStringDictionary{LAMA.Communicator.ModelPropertyChangeInfo,LAMA.Communicator.ModelPropertyChangeInfoStorage},System.Boolean,System.Boolean)
+  name: ModelChangesManager(Communicator, RememberedStringDictionary<Command, CommandStorage>, RememberedStringDictionary<ModelPropertyChangeInfo, ModelPropertyChangeInfoStorage>, Boolean, Boolean)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager__ctor_LAMA_Communicator_Communicator_LAMA_RememberedStringDictionary_LAMA_Communicator_Command_LAMA_Communicator_CommandStorage__LAMA_RememberedStringDictionary_LAMA_Communicator_ModelPropertyChangeInfo_LAMA_Communicator_ModelPropertyChangeInfoStorage__System_Boolean_System_Boolean_
+  commentId: M:LAMA.Communicator.ModelChangesManager.#ctor(LAMA.Communicator.Communicator,LAMA.RememberedStringDictionary{LAMA.Communicator.Command,LAMA.Communicator.CommandStorage},LAMA.RememberedStringDictionary{LAMA.Communicator.ModelPropertyChangeInfo,LAMA.Communicator.ModelPropertyChangeInfoStorage},System.Boolean,System.Boolean)
+  name.vb: ModelChangesManager(Communicator, RememberedStringDictionary(Of Command, CommandStorage), RememberedStringDictionary(Of ModelPropertyChangeInfo, ModelPropertyChangeInfoStorage), Boolean, Boolean)
+  fullName: LAMA.Communicator.ModelChangesManager.ModelChangesManager(LAMA.Communicator.Communicator, LAMA.RememberedStringDictionary<LAMA.Communicator.Command, LAMA.Communicator.CommandStorage>, LAMA.RememberedStringDictionary<LAMA.Communicator.ModelPropertyChangeInfo, LAMA.Communicator.ModelPropertyChangeInfoStorage>, System.Boolean, System.Boolean)
+  fullName.vb: LAMA.Communicator.ModelChangesManager.ModelChangesManager(LAMA.Communicator.Communicator, LAMA.RememberedStringDictionary(Of LAMA.Communicator.Command, LAMA.Communicator.CommandStorage), LAMA.RememberedStringDictionary(Of LAMA.Communicator.ModelPropertyChangeInfo, LAMA.Communicator.ModelPropertyChangeInfoStorage), System.Boolean, System.Boolean)
+  nameWithType: ModelChangesManager.ModelChangesManager(Communicator, RememberedStringDictionary<Command, CommandStorage>, RememberedStringDictionary<ModelPropertyChangeInfo, ModelPropertyChangeInfoStorage>, Boolean, Boolean)
+  nameWithType.vb: ModelChangesManager.ModelChangesManager(Communicator, RememberedStringDictionary(Of Command, CommandStorage), RememberedStringDictionary(Of ModelPropertyChangeInfo, ModelPropertyChangeInfoStorage), Boolean, Boolean)
+- uid: LAMA.Communicator.ModelChangesManager.#ctor*
+  name: ModelChangesManager
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager__ctor_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.#ctor
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.ModelChangesManager
+  nameWithType: ModelChangesManager.ModelChangesManager
+- uid: LAMA.Communicator.ModelChangesManager.ChannelCreated(System.String,System.Int32,System.String,System.Net.Sockets.Socket)
+  name: ChannelCreated(String, Int32, String, Socket)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_ChannelCreated_System_String_System_Int32_System_String_System_Net_Sockets_Socket_
+  commentId: M:LAMA.Communicator.ModelChangesManager.ChannelCreated(System.String,System.Int32,System.String,System.Net.Sockets.Socket)
+  fullName: LAMA.Communicator.ModelChangesManager.ChannelCreated(System.String, System.Int32, System.String, System.Net.Sockets.Socket)
+  nameWithType: ModelChangesManager.ChannelCreated(String, Int32, String, Socket)
+- uid: LAMA.Communicator.ModelChangesManager.ChannelCreated*
+  name: ChannelCreated
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_ChannelCreated_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.ChannelCreated
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.ChannelCreated
+  nameWithType: ModelChangesManager.ChannelCreated
+- uid: LAMA.Communicator.ModelChangesManager.ChannelCreatedResult(System.Int32,System.String,System.Net.Sockets.Socket)
+  name: ChannelCreatedResult(Int32, String, Socket)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_ChannelCreatedResult_System_Int32_System_String_System_Net_Sockets_Socket_
+  commentId: M:LAMA.Communicator.ModelChangesManager.ChannelCreatedResult(System.Int32,System.String,System.Net.Sockets.Socket)
+  fullName: LAMA.Communicator.ModelChangesManager.ChannelCreatedResult(System.Int32, System.String, System.Net.Sockets.Socket)
+  nameWithType: ModelChangesManager.ChannelCreatedResult(Int32, String, Socket)
+- uid: LAMA.Communicator.ModelChangesManager.ChannelCreatedResult*
+  name: ChannelCreatedResult
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_ChannelCreatedResult_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.ChannelCreatedResult
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.ChannelCreatedResult
+  nameWithType: ModelChangesManager.ChannelCreatedResult
+- uid: LAMA.Communicator.ModelChangesManager.ChannelModified(System.String,System.Int32,System.Int32,System.String,System.Net.Sockets.Socket)
+  name: ChannelModified(String, Int32, Int32, String, Socket)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_ChannelModified_System_String_System_Int32_System_Int32_System_String_System_Net_Sockets_Socket_
+  commentId: M:LAMA.Communicator.ModelChangesManager.ChannelModified(System.String,System.Int32,System.Int32,System.String,System.Net.Sockets.Socket)
+  fullName: LAMA.Communicator.ModelChangesManager.ChannelModified(System.String, System.Int32, System.Int32, System.String, System.Net.Sockets.Socket)
+  nameWithType: ModelChangesManager.ChannelModified(String, Int32, Int32, String, Socket)
+- uid: LAMA.Communicator.ModelChangesManager.ChannelModified*
+  name: ChannelModified
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_ChannelModified_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.ChannelModified
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.ChannelModified
+  nameWithType: ModelChangesManager.ChannelModified
+- uid: LAMA.Communicator.ModelChangesManager.ChannelModifiedResult(System.Int32,System.String,System.Net.Sockets.Socket)
+  name: ChannelModifiedResult(Int32, String, Socket)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_ChannelModifiedResult_System_Int32_System_String_System_Net_Sockets_Socket_
+  commentId: M:LAMA.Communicator.ModelChangesManager.ChannelModifiedResult(System.Int32,System.String,System.Net.Sockets.Socket)
+  fullName: LAMA.Communicator.ModelChangesManager.ChannelModifiedResult(System.Int32, System.String, System.Net.Sockets.Socket)
+  nameWithType: ModelChangesManager.ChannelModifiedResult(Int32, String, Socket)
+- uid: LAMA.Communicator.ModelChangesManager.ChannelModifiedResult*
+  name: ChannelModifiedResult
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_ChannelModifiedResult_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.ChannelModifiedResult
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.ChannelModifiedResult
+  nameWithType: ModelChangesManager.ChannelModifiedResult
+- uid: LAMA.Communicator.ModelChangesManager.CPLocationsUpdated(System.String[],System.Int64,System.String)
+  name: CPLocationsUpdated(String[], Int64, String)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_CPLocationsUpdated_System_String___System_Int64_System_String_
+  commentId: M:LAMA.Communicator.ModelChangesManager.CPLocationsUpdated(System.String[],System.Int64,System.String)
+  name.vb: CPLocationsUpdated(String(), Int64, String)
+  fullName: LAMA.Communicator.ModelChangesManager.CPLocationsUpdated(System.String[], System.Int64, System.String)
+  fullName.vb: LAMA.Communicator.ModelChangesManager.CPLocationsUpdated(System.String(), System.Int64, System.String)
+  nameWithType: ModelChangesManager.CPLocationsUpdated(String[], Int64, String)
+  nameWithType.vb: ModelChangesManager.CPLocationsUpdated(String(), Int64, String)
+- uid: LAMA.Communicator.ModelChangesManager.CPLocationsUpdated*
+  name: CPLocationsUpdated
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_CPLocationsUpdated_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.CPLocationsUpdated
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.CPLocationsUpdated
+  nameWithType: ModelChangesManager.CPLocationsUpdated
+- uid: LAMA.Communicator.ModelChangesManager.DataUpdated(System.String,System.Int64,System.Int32,System.String,System.Int64,System.String,System.Net.Sockets.Socket)
+  name: DataUpdated(String, Int64, Int32, String, Int64, String, Socket)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_DataUpdated_System_String_System_Int64_System_Int32_System_String_System_Int64_System_String_System_Net_Sockets_Socket_
+  commentId: M:LAMA.Communicator.ModelChangesManager.DataUpdated(System.String,System.Int64,System.Int32,System.String,System.Int64,System.String,System.Net.Sockets.Socket)
+  fullName: LAMA.Communicator.ModelChangesManager.DataUpdated(System.String, System.Int64, System.Int32, System.String, System.Int64, System.String, System.Net.Sockets.Socket)
+  nameWithType: ModelChangesManager.DataUpdated(String, Int64, Int32, String, Int64, String, Socket)
+- uid: LAMA.Communicator.ModelChangesManager.DataUpdated*
+  name: DataUpdated
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_DataUpdated_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.DataUpdated
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.DataUpdated
+  nameWithType: ModelChangesManager.DataUpdated
+- uid: LAMA.Communicator.ModelChangesManager.ItemCreated(System.String,System.String,System.Int64,System.String,System.Net.Sockets.Socket)
+  name: ItemCreated(String, String, Int64, String, Socket)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_ItemCreated_System_String_System_String_System_Int64_System_String_System_Net_Sockets_Socket_
+  commentId: M:LAMA.Communicator.ModelChangesManager.ItemCreated(System.String,System.String,System.Int64,System.String,System.Net.Sockets.Socket)
+  fullName: LAMA.Communicator.ModelChangesManager.ItemCreated(System.String, System.String, System.Int64, System.String, System.Net.Sockets.Socket)
+  nameWithType: ModelChangesManager.ItemCreated(String, String, Int64, String, Socket)
+- uid: LAMA.Communicator.ModelChangesManager.ItemCreated*
+  name: ItemCreated
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_ItemCreated_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.ItemCreated
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.ItemCreated
+  nameWithType: ModelChangesManager.ItemCreated
+- uid: LAMA.Communicator.ModelChangesManager.ItemDeleted(System.String,System.Int64,System.Int64,System.String)
+  name: ItemDeleted(String, Int64, Int64, String)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_ItemDeleted_System_String_System_Int64_System_Int64_System_String_
+  commentId: M:LAMA.Communicator.ModelChangesManager.ItemDeleted(System.String,System.Int64,System.Int64,System.String)
+  fullName: LAMA.Communicator.ModelChangesManager.ItemDeleted(System.String, System.Int64, System.Int64, System.String)
+  nameWithType: ModelChangesManager.ItemDeleted(String, Int64, Int64, String)
+- uid: LAMA.Communicator.ModelChangesManager.ItemDeleted*
+  name: ItemDeleted
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_ItemDeleted_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.ItemDeleted
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.ItemDeleted
+  nameWithType: ModelChangesManager.ItemDeleted
+- uid: LAMA.Communicator.ModelChangesManager.OnDataUpdated(LAMA.Serializable,System.Int32)
+  name: OnDataUpdated(Serializable, Int32)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_OnDataUpdated_LAMA_Serializable_System_Int32_
+  commentId: M:LAMA.Communicator.ModelChangesManager.OnDataUpdated(LAMA.Serializable,System.Int32)
+  fullName: LAMA.Communicator.ModelChangesManager.OnDataUpdated(LAMA.Serializable, System.Int32)
+  nameWithType: ModelChangesManager.OnDataUpdated(Serializable, Int32)
+- uid: LAMA.Communicator.ModelChangesManager.OnDataUpdated*
+  name: OnDataUpdated
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_OnDataUpdated_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.OnDataUpdated
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.OnDataUpdated
+  nameWithType: ModelChangesManager.OnDataUpdated
+- uid: LAMA.Communicator.ModelChangesManager.OnItemCreated(LAMA.Serializable)
+  name: OnItemCreated(Serializable)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_OnItemCreated_LAMA_Serializable_
+  commentId: M:LAMA.Communicator.ModelChangesManager.OnItemCreated(LAMA.Serializable)
+  fullName: LAMA.Communicator.ModelChangesManager.OnItemCreated(LAMA.Serializable)
+  nameWithType: ModelChangesManager.OnItemCreated(Serializable)
+- uid: LAMA.Communicator.ModelChangesManager.OnItemCreated*
+  name: OnItemCreated
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_OnItemCreated_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.OnItemCreated
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.OnItemCreated
+  nameWithType: ModelChangesManager.OnItemCreated
+- uid: LAMA.Communicator.ModelChangesManager.OnItemDeleted(LAMA.Serializable)
+  name: OnItemDeleted(Serializable)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_OnItemDeleted_LAMA_Serializable_
+  commentId: M:LAMA.Communicator.ModelChangesManager.OnItemDeleted(LAMA.Serializable)
+  fullName: LAMA.Communicator.ModelChangesManager.OnItemDeleted(LAMA.Serializable)
+  nameWithType: ModelChangesManager.OnItemDeleted(Serializable)
+- uid: LAMA.Communicator.ModelChangesManager.OnItemDeleted*
+  name: OnItemDeleted
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_OnItemDeleted_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.OnItemDeleted
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.OnItemDeleted
+  nameWithType: ModelChangesManager.OnItemDeleted
+- uid: LAMA.Communicator.ModelChangesManager.ProcessCommand(System.String,System.Net.Sockets.Socket)
+  name: ProcessCommand(String, Socket)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_ProcessCommand_System_String_System_Net_Sockets_Socket_
+  commentId: M:LAMA.Communicator.ModelChangesManager.ProcessCommand(System.String,System.Net.Sockets.Socket)
+  fullName: LAMA.Communicator.ModelChangesManager.ProcessCommand(System.String, System.Net.Sockets.Socket)
+  nameWithType: ModelChangesManager.ProcessCommand(String, Socket)
+- uid: LAMA.Communicator.ModelChangesManager.ProcessCommand*
+  name: ProcessCommand
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_ProcessCommand_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.ProcessCommand
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.ProcessCommand
+  nameWithType: ModelChangesManager.ProcessCommand
+- uid: LAMA.Communicator.ModelChangesManager.ReceiveRole(System.Int64,System.String,System.Int32,System.String,System.Net.Sockets.Socket)
+  name: ReceiveRole(Int64, String, Int32, String, Socket)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_ReceiveRole_System_Int64_System_String_System_Int32_System_String_System_Net_Sockets_Socket_
+  commentId: M:LAMA.Communicator.ModelChangesManager.ReceiveRole(System.Int64,System.String,System.Int32,System.String,System.Net.Sockets.Socket)
+  fullName: LAMA.Communicator.ModelChangesManager.ReceiveRole(System.Int64, System.String, System.Int32, System.String, System.Net.Sockets.Socket)
+  nameWithType: ModelChangesManager.ReceiveRole(Int64, String, Int32, String, Socket)
+- uid: LAMA.Communicator.ModelChangesManager.ReceiveRole*
+  name: ReceiveRole
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_ReceiveRole_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.ReceiveRole
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.ReceiveRole
+  nameWithType: ModelChangesManager.ReceiveRole
+- uid: LAMA.Communicator.ModelChangesManager.RemoveRole(System.Int64,System.Int64,System.Int32,System.String,System.Net.Sockets.Socket)
+  name: RemoveRole(Int64, Int64, Int32, String, Socket)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_RemoveRole_System_Int64_System_Int64_System_Int32_System_String_System_Net_Sockets_Socket_
+  commentId: M:LAMA.Communicator.ModelChangesManager.RemoveRole(System.Int64,System.Int64,System.Int32,System.String,System.Net.Sockets.Socket)
+  fullName: LAMA.Communicator.ModelChangesManager.RemoveRole(System.Int64, System.Int64, System.Int32, System.String, System.Net.Sockets.Socket)
+  nameWithType: ModelChangesManager.RemoveRole(Int64, Int64, Int32, String, Socket)
+- uid: LAMA.Communicator.ModelChangesManager.RemoveRole*
+  name: RemoveRole
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_RemoveRole_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.RemoveRole
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.RemoveRole
+  nameWithType: ModelChangesManager.RemoveRole
+- uid: LAMA.Communicator.ModelChangesManager.RemoveRoleResult(System.Int64,System.Int32,System.String,System.Net.Sockets.Socket)
+  name: RemoveRoleResult(Int64, Int32, String, Socket)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_RemoveRoleResult_System_Int64_System_Int32_System_String_System_Net_Sockets_Socket_
+  commentId: M:LAMA.Communicator.ModelChangesManager.RemoveRoleResult(System.Int64,System.Int32,System.String,System.Net.Sockets.Socket)
+  fullName: LAMA.Communicator.ModelChangesManager.RemoveRoleResult(System.Int64, System.Int32, System.String, System.Net.Sockets.Socket)
+  nameWithType: ModelChangesManager.RemoveRoleResult(Int64, Int32, String, Socket)
+- uid: LAMA.Communicator.ModelChangesManager.RemoveRoleResult*
+  name: RemoveRoleResult
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_RemoveRoleResult_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.RemoveRoleResult
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.RemoveRoleResult
+  nameWithType: ModelChangesManager.RemoveRoleResult
+- uid: LAMA.Communicator.ModelChangesManager.RequestRole(System.Int64,System.String,System.Int64,System.Int32,System.String,System.Net.Sockets.Socket)
+  name: RequestRole(Int64, String, Int64, Int32, String, Socket)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_RequestRole_System_Int64_System_String_System_Int64_System_Int32_System_String_System_Net_Sockets_Socket_
+  commentId: M:LAMA.Communicator.ModelChangesManager.RequestRole(System.Int64,System.String,System.Int64,System.Int32,System.String,System.Net.Sockets.Socket)
+  fullName: LAMA.Communicator.ModelChangesManager.RequestRole(System.Int64, System.String, System.Int64, System.Int32, System.String, System.Net.Sockets.Socket)
+  nameWithType: ModelChangesManager.RequestRole(Int64, String, Int64, Int32, String, Socket)
+- uid: LAMA.Communicator.ModelChangesManager.RequestRole*
+  name: RequestRole
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_RequestRole_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.RequestRole
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.RequestRole
+  nameWithType: ModelChangesManager.RequestRole
+- uid: LAMA.Communicator.ModelChangesManager.RollbackDataUpdated(System.String,System.Int64,System.Int32,System.String,System.Int64,System.String)
+  name: RollbackDataUpdated(String, Int64, Int32, String, Int64, String)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_RollbackDataUpdated_System_String_System_Int64_System_Int32_System_String_System_Int64_System_String_
+  commentId: M:LAMA.Communicator.ModelChangesManager.RollbackDataUpdated(System.String,System.Int64,System.Int32,System.String,System.Int64,System.String)
+  fullName: LAMA.Communicator.ModelChangesManager.RollbackDataUpdated(System.String, System.Int64, System.Int32, System.String, System.Int64, System.String)
+  nameWithType: ModelChangesManager.RollbackDataUpdated(String, Int64, Int32, String, Int64, String)
+- uid: LAMA.Communicator.ModelChangesManager.RollbackDataUpdated*
+  name: RollbackDataUpdated
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_RollbackDataUpdated_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.RollbackDataUpdated
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.RollbackDataUpdated
+  nameWithType: ModelChangesManager.RollbackDataUpdated
+- uid: LAMA.Communicator.ModelChangesManager.RollbackItemCreated(System.String,System.String,System.Int64,System.String)
+  name: RollbackItemCreated(String, String, Int64, String)
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_RollbackItemCreated_System_String_System_String_System_Int64_System_String_
+  commentId: M:LAMA.Communicator.ModelChangesManager.RollbackItemCreated(System.String,System.String,System.Int64,System.String)
+  fullName: LAMA.Communicator.ModelChangesManager.RollbackItemCreated(System.String, System.String, System.Int64, System.String)
+  nameWithType: ModelChangesManager.RollbackItemCreated(String, String, Int64, String)
+- uid: LAMA.Communicator.ModelChangesManager.RollbackItemCreated*
+  name: RollbackItemCreated
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_RollbackItemCreated_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.RollbackItemCreated
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.RollbackItemCreated
+  nameWithType: ModelChangesManager.RollbackItemCreated
+- uid: LAMA.Communicator.ModelChangesManager.SendCPLocations
+  name: SendCPLocations()
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_SendCPLocations
+  commentId: M:LAMA.Communicator.ModelChangesManager.SendCPLocations
+  fullName: LAMA.Communicator.ModelChangesManager.SendCPLocations()
+  nameWithType: ModelChangesManager.SendCPLocations()
+- uid: LAMA.Communicator.ModelChangesManager.SendCPLocations*
+  name: SendCPLocations
+  href: api/LAMA.Communicator.ModelChangesManager.html#LAMA_Communicator_ModelChangesManager_SendCPLocations_
+  commentId: Overload:LAMA.Communicator.ModelChangesManager.SendCPLocations
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelChangesManager.SendCPLocations
+  nameWithType: ModelChangesManager.SendCPLocations
 - uid: LAMA.Communicator.ModelPropertyChangeInfo
   name: ModelPropertyChangeInfo
   href: api/LAMA.Communicator.ModelPropertyChangeInfo.html
@@ -1569,6 +2073,93 @@ references:
   isSpec: "True"
   fullName: LAMA.Communicator.ModelPropertyChangeInfo.value
   nameWithType: ModelPropertyChangeInfo.value
+- uid: LAMA.Communicator.ModelPropertyChangeInfoStorage
+  name: ModelPropertyChangeInfoStorage
+  href: api/LAMA.Communicator.ModelPropertyChangeInfoStorage.html
+  commentId: T:LAMA.Communicator.ModelPropertyChangeInfoStorage
+  fullName: LAMA.Communicator.ModelPropertyChangeInfoStorage
+  nameWithType: ModelPropertyChangeInfoStorage
+- uid: LAMA.Communicator.ModelPropertyChangeInfoStorage.getKey
+  name: getKey()
+  href: api/LAMA.Communicator.ModelPropertyChangeInfoStorage.html#LAMA_Communicator_ModelPropertyChangeInfoStorage_getKey
+  commentId: M:LAMA.Communicator.ModelPropertyChangeInfoStorage.getKey
+  fullName: LAMA.Communicator.ModelPropertyChangeInfoStorage.getKey()
+  nameWithType: ModelPropertyChangeInfoStorage.getKey()
+- uid: LAMA.Communicator.ModelPropertyChangeInfoStorage.getKey*
+  name: getKey
+  href: api/LAMA.Communicator.ModelPropertyChangeInfoStorage.html#LAMA_Communicator_ModelPropertyChangeInfoStorage_getKey_
+  commentId: Overload:LAMA.Communicator.ModelPropertyChangeInfoStorage.getKey
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelPropertyChangeInfoStorage.getKey
+  nameWithType: ModelPropertyChangeInfoStorage.getKey
+- uid: LAMA.Communicator.ModelPropertyChangeInfoStorage.getStrings
+  name: getStrings()
+  href: api/LAMA.Communicator.ModelPropertyChangeInfoStorage.html#LAMA_Communicator_ModelPropertyChangeInfoStorage_getStrings
+  commentId: M:LAMA.Communicator.ModelPropertyChangeInfoStorage.getStrings
+  fullName: LAMA.Communicator.ModelPropertyChangeInfoStorage.getStrings()
+  nameWithType: ModelPropertyChangeInfoStorage.getStrings()
+- uid: LAMA.Communicator.ModelPropertyChangeInfoStorage.getStrings*
+  name: getStrings
+  href: api/LAMA.Communicator.ModelPropertyChangeInfoStorage.html#LAMA_Communicator_ModelPropertyChangeInfoStorage_getStrings_
+  commentId: Overload:LAMA.Communicator.ModelPropertyChangeInfoStorage.getStrings
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelPropertyChangeInfoStorage.getStrings
+  nameWithType: ModelPropertyChangeInfoStorage.getStrings
+- uid: LAMA.Communicator.ModelPropertyChangeInfoStorage.key
+  name: key
+  href: api/LAMA.Communicator.ModelPropertyChangeInfoStorage.html#LAMA_Communicator_ModelPropertyChangeInfoStorage_key
+  commentId: P:LAMA.Communicator.ModelPropertyChangeInfoStorage.key
+  fullName: LAMA.Communicator.ModelPropertyChangeInfoStorage.key
+  nameWithType: ModelPropertyChangeInfoStorage.key
+- uid: LAMA.Communicator.ModelPropertyChangeInfoStorage.key*
+  name: key
+  href: api/LAMA.Communicator.ModelPropertyChangeInfoStorage.html#LAMA_Communicator_ModelPropertyChangeInfoStorage_key_
+  commentId: Overload:LAMA.Communicator.ModelPropertyChangeInfoStorage.key
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelPropertyChangeInfoStorage.key
+  nameWithType: ModelPropertyChangeInfoStorage.key
+- uid: LAMA.Communicator.ModelPropertyChangeInfoStorage.makeFromStrings(System.String[])
+  name: makeFromStrings(String[])
+  href: api/LAMA.Communicator.ModelPropertyChangeInfoStorage.html#LAMA_Communicator_ModelPropertyChangeInfoStorage_makeFromStrings_System_String___
+  commentId: M:LAMA.Communicator.ModelPropertyChangeInfoStorage.makeFromStrings(System.String[])
+  name.vb: makeFromStrings(String())
+  fullName: LAMA.Communicator.ModelPropertyChangeInfoStorage.makeFromStrings(System.String[])
+  fullName.vb: LAMA.Communicator.ModelPropertyChangeInfoStorage.makeFromStrings(System.String())
+  nameWithType: ModelPropertyChangeInfoStorage.makeFromStrings(String[])
+  nameWithType.vb: ModelPropertyChangeInfoStorage.makeFromStrings(String())
+- uid: LAMA.Communicator.ModelPropertyChangeInfoStorage.makeFromStrings*
+  name: makeFromStrings
+  href: api/LAMA.Communicator.ModelPropertyChangeInfoStorage.html#LAMA_Communicator_ModelPropertyChangeInfoStorage_makeFromStrings_
+  commentId: Overload:LAMA.Communicator.ModelPropertyChangeInfoStorage.makeFromStrings
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelPropertyChangeInfoStorage.makeFromStrings
+  nameWithType: ModelPropertyChangeInfoStorage.makeFromStrings
+- uid: LAMA.Communicator.ModelPropertyChangeInfoStorage.time
+  name: time
+  href: api/LAMA.Communicator.ModelPropertyChangeInfoStorage.html#LAMA_Communicator_ModelPropertyChangeInfoStorage_time
+  commentId: P:LAMA.Communicator.ModelPropertyChangeInfoStorage.time
+  fullName: LAMA.Communicator.ModelPropertyChangeInfoStorage.time
+  nameWithType: ModelPropertyChangeInfoStorage.time
+- uid: LAMA.Communicator.ModelPropertyChangeInfoStorage.time*
+  name: time
+  href: api/LAMA.Communicator.ModelPropertyChangeInfoStorage.html#LAMA_Communicator_ModelPropertyChangeInfoStorage_time_
+  commentId: Overload:LAMA.Communicator.ModelPropertyChangeInfoStorage.time
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelPropertyChangeInfoStorage.time
+  nameWithType: ModelPropertyChangeInfoStorage.time
+- uid: LAMA.Communicator.ModelPropertyChangeInfoStorage.value
+  name: value
+  href: api/LAMA.Communicator.ModelPropertyChangeInfoStorage.html#LAMA_Communicator_ModelPropertyChangeInfoStorage_value
+  commentId: P:LAMA.Communicator.ModelPropertyChangeInfoStorage.value
+  fullName: LAMA.Communicator.ModelPropertyChangeInfoStorage.value
+  nameWithType: ModelPropertyChangeInfoStorage.value
+- uid: LAMA.Communicator.ModelPropertyChangeInfoStorage.value*
+  name: value
+  href: api/LAMA.Communicator.ModelPropertyChangeInfoStorage.html#LAMA_Communicator_ModelPropertyChangeInfoStorage_value_
+  commentId: Overload:LAMA.Communicator.ModelPropertyChangeInfoStorage.value
+  isSpec: "True"
+  fullName: LAMA.Communicator.ModelPropertyChangeInfoStorage.value
+  nameWithType: ModelPropertyChangeInfoStorage.value
 - uid: LAMA.Communicator.NotAnIPAddressException
   name: NotAnIPAddressException
   href: api/LAMA.Communicator.NotAnIPAddressException.html
@@ -1760,6 +2351,36 @@ references:
   isSpec: "True"
   fullName: LAMA.Communicator.ServerConnectionRefusedException.ServerConnectionRefusedException
   nameWithType: ServerConnectionRefusedException.ServerConnectionRefusedException
+- uid: LAMA.Communicator.SpecialCharacters
+  name: SpecialCharacters
+  href: api/LAMA.Communicator.SpecialCharacters.html
+  commentId: T:LAMA.Communicator.SpecialCharacters
+  fullName: LAMA.Communicator.SpecialCharacters
+  nameWithType: SpecialCharacters
+- uid: LAMA.Communicator.SpecialCharacters.archivedChannelIndicator
+  name: archivedChannelIndicator
+  href: api/LAMA.Communicator.SpecialCharacters.html#LAMA_Communicator_SpecialCharacters_archivedChannelIndicator
+  commentId: F:LAMA.Communicator.SpecialCharacters.archivedChannelIndicator
+  fullName: LAMA.Communicator.SpecialCharacters.archivedChannelIndicator
+  nameWithType: SpecialCharacters.archivedChannelIndicator
+- uid: LAMA.Communicator.SpecialCharacters.attributesSeparator
+  name: attributesSeparator
+  href: api/LAMA.Communicator.SpecialCharacters.html#LAMA_Communicator_SpecialCharacters_attributesSeparator
+  commentId: F:LAMA.Communicator.SpecialCharacters.attributesSeparator
+  fullName: LAMA.Communicator.SpecialCharacters.attributesSeparator
+  nameWithType: SpecialCharacters.attributesSeparator
+- uid: LAMA.Communicator.SpecialCharacters.messagePartSeparator
+  name: messagePartSeparator
+  href: api/LAMA.Communicator.SpecialCharacters.html#LAMA_Communicator_SpecialCharacters_messagePartSeparator
+  commentId: F:LAMA.Communicator.SpecialCharacters.messagePartSeparator
+  fullName: LAMA.Communicator.SpecialCharacters.messagePartSeparator
+  nameWithType: SpecialCharacters.messagePartSeparator
+- uid: LAMA.Communicator.SpecialCharacters.messageSeparator
+  name: messageSeparator
+  href: api/LAMA.Communicator.SpecialCharacters.html#LAMA_Communicator_SpecialCharacters_messageSeparator
+  commentId: F:LAMA.Communicator.SpecialCharacters.messageSeparator
+  fullName: LAMA.Communicator.SpecialCharacters.messageSeparator
+  nameWithType: SpecialCharacters.messageSeparator
 - uid: LAMA.Communicator.WrongCredentialsException
   name: WrongCredentialsException
   href: api/LAMA.Communicator.WrongCredentialsException.html
@@ -6414,6 +7035,170 @@ references:
   fullName.vb: LAMA.RememberedList(Of T, Storage).sqlConnection
   nameWithType: RememberedList<T, Storage>.sqlConnection
   nameWithType.vb: RememberedList(Of T, Storage).sqlConnection
+- uid: LAMA.RememberedStringDictionary`2
+  name: RememberedStringDictionary<T, Storage>
+  href: api/LAMA.RememberedStringDictionary-2.html
+  commentId: T:LAMA.RememberedStringDictionary`2
+  name.vb: RememberedStringDictionary(Of T, Storage)
+  fullName: LAMA.RememberedStringDictionary<T, Storage>
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage)
+  nameWithType: RememberedStringDictionary<T, Storage>
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage)
+- uid: LAMA.RememberedStringDictionary`2.#ctor(LAMA.OurSQLDictionary{`0,`1})
+  name: RememberedStringDictionary(OurSQLDictionary<T, Storage>)
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2__ctor_LAMA_OurSQLDictionary__0__1__
+  commentId: M:LAMA.RememberedStringDictionary`2.#ctor(LAMA.OurSQLDictionary{`0,`1})
+  name.vb: RememberedStringDictionary(OurSQLDictionary(Of T, Storage))
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.RememberedStringDictionary(LAMA.OurSQLDictionary<T, Storage>)
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).RememberedStringDictionary(LAMA.OurSQLDictionary(Of T, Storage))
+  nameWithType: RememberedStringDictionary<T, Storage>.RememberedStringDictionary(OurSQLDictionary<T, Storage>)
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).RememberedStringDictionary(OurSQLDictionary(Of T, Storage))
+- uid: LAMA.RememberedStringDictionary`2.#ctor*
+  name: RememberedStringDictionary
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2__ctor_
+  commentId: Overload:LAMA.RememberedStringDictionary`2.#ctor
+  isSpec: "True"
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.RememberedStringDictionary
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).RememberedStringDictionary
+  nameWithType: RememberedStringDictionary<T, Storage>.RememberedStringDictionary
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).RememberedStringDictionary
+- uid: LAMA.RememberedStringDictionary`2.add(`0)
+  name: add(T)
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2_add__0_
+  commentId: M:LAMA.RememberedStringDictionary`2.add(`0)
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.add(T)
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).add(T)
+  nameWithType: RememberedStringDictionary<T, Storage>.add(T)
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).add(T)
+- uid: LAMA.RememberedStringDictionary`2.add*
+  name: add
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2_add_
+  commentId: Overload:LAMA.RememberedStringDictionary`2.add
+  isSpec: "True"
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.add
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).add
+  nameWithType: RememberedStringDictionary<T, Storage>.add
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).add
+- uid: LAMA.RememberedStringDictionary`2.containsKey(System.String)
+  name: containsKey(String)
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2_containsKey_System_String_
+  commentId: M:LAMA.RememberedStringDictionary`2.containsKey(System.String)
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.containsKey(System.String)
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).containsKey(System.String)
+  nameWithType: RememberedStringDictionary<T, Storage>.containsKey(String)
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).containsKey(String)
+- uid: LAMA.RememberedStringDictionary`2.containsKey*
+  name: containsKey
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2_containsKey_
+  commentId: Overload:LAMA.RememberedStringDictionary`2.containsKey
+  isSpec: "True"
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.containsKey
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).containsKey
+  nameWithType: RememberedStringDictionary<T, Storage>.containsKey
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).containsKey
+- uid: LAMA.RememberedStringDictionary`2.Count
+  name: Count
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2_Count
+  commentId: P:LAMA.RememberedStringDictionary`2.Count
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.Count
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).Count
+  nameWithType: RememberedStringDictionary<T, Storage>.Count
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).Count
+- uid: LAMA.RememberedStringDictionary`2.Count*
+  name: Count
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2_Count_
+  commentId: Overload:LAMA.RememberedStringDictionary`2.Count
+  isSpec: "True"
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.Count
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).Count
+  nameWithType: RememberedStringDictionary<T, Storage>.Count
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).Count
+- uid: LAMA.RememberedStringDictionary`2.getByKey(System.String)
+  name: getByKey(String)
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2_getByKey_System_String_
+  commentId: M:LAMA.RememberedStringDictionary`2.getByKey(System.String)
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.getByKey(System.String)
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).getByKey(System.String)
+  nameWithType: RememberedStringDictionary<T, Storage>.getByKey(String)
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).getByKey(String)
+- uid: LAMA.RememberedStringDictionary`2.getByKey*
+  name: getByKey
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2_getByKey_
+  commentId: Overload:LAMA.RememberedStringDictionary`2.getByKey
+  isSpec: "True"
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.getByKey
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).getByKey
+  nameWithType: RememberedStringDictionary<T, Storage>.getByKey
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).getByKey
+- uid: LAMA.RememberedStringDictionary`2.Item(System.Int32)
+  name: Item[Int32]
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2_Item_System_Int32_
+  commentId: P:LAMA.RememberedStringDictionary`2.Item(System.Int32)
+  name.vb: Item(Int32)
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.Item[System.Int32]
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).Item(System.Int32)
+  nameWithType: RememberedStringDictionary<T, Storage>.Item[Int32]
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).Item(Int32)
+- uid: LAMA.RememberedStringDictionary`2.Item*
+  name: Item
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2_Item_
+  commentId: Overload:LAMA.RememberedStringDictionary`2.Item
+  isSpec: "True"
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.Item
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).Item
+  nameWithType: RememberedStringDictionary<T, Storage>.Item
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).Item
+- uid: LAMA.RememberedStringDictionary`2.removeAt(System.Int32)
+  name: removeAt(Int32)
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2_removeAt_System_Int32_
+  commentId: M:LAMA.RememberedStringDictionary`2.removeAt(System.Int32)
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.removeAt(System.Int32)
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).removeAt(System.Int32)
+  nameWithType: RememberedStringDictionary<T, Storage>.removeAt(Int32)
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).removeAt(Int32)
+- uid: LAMA.RememberedStringDictionary`2.removeAt*
+  name: removeAt
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2_removeAt_
+  commentId: Overload:LAMA.RememberedStringDictionary`2.removeAt
+  isSpec: "True"
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.removeAt
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).removeAt
+  nameWithType: RememberedStringDictionary<T, Storage>.removeAt
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).removeAt
+- uid: LAMA.RememberedStringDictionary`2.removeByKey(System.String)
+  name: removeByKey(String)
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2_removeByKey_System_String_
+  commentId: M:LAMA.RememberedStringDictionary`2.removeByKey(System.String)
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.removeByKey(System.String)
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).removeByKey(System.String)
+  nameWithType: RememberedStringDictionary<T, Storage>.removeByKey(String)
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).removeByKey(String)
+- uid: LAMA.RememberedStringDictionary`2.removeByKey*
+  name: removeByKey
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2_removeByKey_
+  commentId: Overload:LAMA.RememberedStringDictionary`2.removeByKey
+  isSpec: "True"
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.removeByKey
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).removeByKey
+  nameWithType: RememberedStringDictionary<T, Storage>.removeByKey
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).removeByKey
+- uid: LAMA.RememberedStringDictionary`2.sqlConnection
+  name: sqlConnection
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2_sqlConnection
+  commentId: P:LAMA.RememberedStringDictionary`2.sqlConnection
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.sqlConnection
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).sqlConnection
+  nameWithType: RememberedStringDictionary<T, Storage>.sqlConnection
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).sqlConnection
+- uid: LAMA.RememberedStringDictionary`2.sqlConnection*
+  name: sqlConnection
+  href: api/LAMA.RememberedStringDictionary-2.html#LAMA_RememberedStringDictionary_2_sqlConnection_
+  commentId: Overload:LAMA.RememberedStringDictionary`2.sqlConnection
+  isSpec: "True"
+  fullName: LAMA.RememberedStringDictionary<T, Storage>.sqlConnection
+  fullName.vb: LAMA.RememberedStringDictionary(Of T, Storage).sqlConnection
+  nameWithType: RememberedStringDictionary<T, Storage>.sqlConnection
+  nameWithType.vb: RememberedStringDictionary(Of T, Storage).sqlConnection
 - uid: LAMA.Serializable
   name: Serializable
   href: api/LAMA.Serializable.html

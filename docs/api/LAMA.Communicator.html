@@ -84,32 +84,56 @@
       <section><p>Unable to connect to the database with the LARP server specifications</p>
 </section>
       <h4><a class="xref" href="LAMA.Communicator.ClientCommunicator.html">ClientCommunicator</a></h4>
-      <section></section>
+      <section><p>Handles the communication for client applications.
+It is capable of sending messages to the server and reacting to those arriving from the server.</p>
+</section>
       <h4><a class="xref" href="LAMA.Communicator.ClientRefusedException.html">ClientRefusedException</a></h4>
       <section><p>Server refused the client</p>
 </section>
       <h4><a class="xref" href="LAMA.Communicator.Command.html">Command</a></h4>
       <section><p>Class representing a single message sent over the network</p>
 </section>
+      <h4><a class="xref" href="LAMA.Communicator.CommandStorage.html">CommandStorage</a></h4>
+      <section><p>Stores the Command class in a database as an array of strings</p>
+</section>
       <h4><a class="xref" href="LAMA.Communicator.Compression.html">Compression</a></h4>
-      <section></section>
+      <section><p>Class managing the Huffman tree compression and decompression.</p>
+</section>
       <h4><a class="xref" href="LAMA.Communicator.DebugLogger.html">DebugLogger</a></h4>
-      <section></section>
+      <section><p>Logger capable of writing into a file</p>
+</section>
       <h4><a class="xref" href="LAMA.Communicator.EntryMissingException.html">EntryMissingException</a></h4>
-      <section></section>
+      <section><p>The user forgot to fill some entry (it was empty or filled with just white characters)</p>
+</section>
       <h4><a class="xref" href="LAMA.Communicator.EntryTooLongException.html">EntryTooLongException</a></h4>
-      <section></section>
+      <section><p>The user filled entries have a character limit, which can not be overreached</p>
+</section>
+      <h4><a class="xref" href="LAMA.Communicator.HuffmanNode.html">HuffmanNode</a></h4>
+      <section><p>Class representing a single node of a Huffman tree</p>
+</section>
+      <h4><a class="xref" href="LAMA.Communicator.ModelChangesManager.html">ModelChangesManager</a></h4>
+      <section><p>The program has an internal model of the state of the LARP. This contains information about the CPs, Activities, Items, Chat, Event itself… This model may be changed by the user. The model changes manager reacts to this by sending the information about this change to all the other users. It also parses the messages about the changes from other users and reacts to them by changing the model when appropriate.</p>
+</section>
       <h4><a class="xref" href="LAMA.Communicator.ModelPropertyChangeInfo.html">ModelPropertyChangeInfo</a></h4>
-      <section></section>
+      <section><p>Class stores an information about the last modification of an object property</p>
+</section>
+      <h4><a class="xref" href="LAMA.Communicator.ModelPropertyChangeInfoStorage.html">ModelPropertyChangeInfoStorage</a></h4>
+      <section><p>Class which helps to store the ModelPropertyChangeInfo into a database.</p>
+</section>
       <h4><a class="xref" href="LAMA.Communicator.NotAnIPAddressException.html">NotAnIPAddressException</a></h4>
       <section><p>Supplied IP isn't a valid IP address</p>
 </section>
       <h4><a class="xref" href="LAMA.Communicator.PasswordTooShortException.html">PasswordTooShortException</a></h4>
-      <section></section>
+      <section><p>The passwords must have a minimum length to increase the security</p>
+</section>
       <h4><a class="xref" href="LAMA.Communicator.ServerCommunicator.html">ServerCommunicator</a></h4>
-      <section></section>
+      <section><p>Handles the communication for the server application. It is able to receive messages from the clients and send messages to all of the clients at once or do so individually.</p>
+</section>
       <h4><a class="xref" href="LAMA.Communicator.ServerConnectionRefusedException.html">ServerConnectionRefusedException</a></h4>
       <section><p>LARP server refused connection</p>
+</section>
+      <h4><a class="xref" href="LAMA.Communicator.SpecialCharacters.html">SpecialCharacters</a></h4>
+      <section><p>Static class defining special characters used in the application.</p>
 </section>
       <h4><a class="xref" href="LAMA.Communicator.WrongCredentialsException.html">WrongCredentialsException</a></h4>
       <section><p>Wrong client name, client password, server password or a server with this name already exists</p>
@@ -118,9 +142,15 @@
       <section><p>Server name can not contain special symbols</p>
 </section>
       <h4><a class="xref" href="LAMA.Communicator.WrongNgrokAddressFormatException.html">WrongNgrokAddressFormatException</a></h4>
-      <section></section>
+      <section><p>User didn't enter a correct ngrok endpoint address</p>
+</section>
       <h4><a class="xref" href="LAMA.Communicator.WrongPortException.html">WrongPortException</a></h4>
       <section><p>Can not create server with this port number</p>
+</section>
+    <h3 id="interfaces">Interfaces
+  </h3>
+      <h4><a class="xref" href="LAMA.Communicator.Communicator.html">Communicator</a></h4>
+      <section><p>Interface for both of the communicator classes(ClientCommunicator, ServerCommunicator)</p>
 </section>
 </article>
           </div>
